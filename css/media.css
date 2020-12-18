@@ -89,6 +89,7 @@
     }
     .tab_button {
         margin: 20px 0;
+	justify-content: center;    
     }
     .t_content {
         margin-top: 10px;
